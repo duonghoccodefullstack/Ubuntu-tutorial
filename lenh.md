@@ -11,7 +11,7 @@ Lệnh Ubuntu
      + cú pháp gộp hai file : cat file1. file2. > tên file mới 
 + echo :
      + In ra nội  dung không cần file 
-     + tạo file có nội dung trên lệnh :  echo "< thẻ h1>hello<h1>" > echo.html (in nhiều nội dung >> )
+     + tạo file có nội dung trên lệnh :  echo "< thẻ h1>hello< thẻ h1>" > echo.html (in nhiều nội dung >> )
 + tail :
     +  tail -f tên file : follow theo file những dòng cuối  
 + grep : 
