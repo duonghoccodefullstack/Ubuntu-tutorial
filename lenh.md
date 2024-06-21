@@ -31,7 +31,7 @@ Lệnh Ubuntu
 + sudo: (Lệnh to nhất)
 
 + chmod : 
-     + u=rmx : phân quyền nhóm user  |  ( "+" thêm 1 quyền "- ": Giữ nguyên loại bỏ quyền đó , "=" :giữ nguyên)
+     + u=rmx : phân quyền nhóm user  |  ( "+" thêm 1 quyền , "- ": Giữ nguyên loại bỏ quyền đó , "=" :giữ nguyên)
      + g=rx : phân quyền nhóm group  | 
      + o=r : phân quyền nhóm other   |
 
